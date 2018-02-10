@@ -7,5 +7,5 @@
  */
 ?>
 <?php
-    include ('view_feedback.php');
+    //include ('view_feedback.php');
 ?>
