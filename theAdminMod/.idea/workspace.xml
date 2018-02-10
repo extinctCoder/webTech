@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78eb2451-2175-426c-b2d6-021761d9e6d9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../labTask_ONE/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../labTask_ONE/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../labTask_ONE/index.php" afterPath="$PROJECT_DIR$/../labTask_ONE/index.php" />
-    </list>
+    <list default="true" id="78eb2451-2175-426c-b2d6-021761d9e6d9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,12 +114,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517994194432</updated>
       <workItem from="1517994195906" duration="1879000" />
-      <workItem from="1518262380168" duration="71000" />
+      <workItem from="1518262380168" duration="443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1950000" />
+    <option name="totallyTimeSpent" value="2322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
