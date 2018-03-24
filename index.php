@@ -6,3 +6,6 @@
  * Time: 3:43 PM
  */
 ?>
+<?php
+header("Location: /webTech/public/index.php");
+?>
